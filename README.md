@@ -61,5 +61,5 @@ not by double-clicking `index.html`.
 - **Test it**: add a test to `tests/` before you change anything, for example "a subject name with an emoji is accepted".
 - **Compare it** with your own Project 1: which edge cases does each one handle?
 
-If you build on it, say so in your README and `PROMPTS.md` (it's MIT-licensed, so credit "Vibe Coding 101 rescue starter"),
+If you build on it, say so in your README and `PROMPTS.md` (it's MIT-licensed, so credit "Building Software with AI rescue starter"),
 and keep your own work clearly separate. Your grade comes from what you write and can explain yourself.
