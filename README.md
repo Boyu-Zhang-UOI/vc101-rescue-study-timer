@@ -1,9 +1,9 @@
 # Study Log: rescue starter
 
 > **For students who have fallen behind.** This is a small, working app built from the course's
-> [week 3 example spec](https://boyu-zhang-uoi.github.io/Vibe_Coding_101/weeks/03-spec-first/example-spec.html)
+> [week 5 example spec](https://boyu-zhang-uoi.github.io/building-apps-with-ai/weeks/05-spec-first/example-spec.html)
 > (Sam's study timer). It is **a reference, not your Project 1.** Use it to keep taking part in
-> week 4 (reading code, debugging, the first automated test) while you catch up, and talk to your
+> weeks 7 and 8 (reading code, debugging, writing a function yourself, testing the logic) while you catch up, and talk to your
 > instructor about how you'll finish your own Project 1.
 
 ## What it does
@@ -37,8 +37,8 @@ Every acceptance criterion of the example spec is implemented:
 ## Run it
 
 1. Copy it into a **new, empty** repository (not your Project 1 repository), following
-   [Start a project from a starter](https://github.com/Boyu-Zhang-UOI/Vibe_Coding_101/blob/main/setup/codespaces.md#start-a-project-from-a-starter)
-   with the path `projects/rescue-starters/study-timer`, and open it in a Codespace.
+   [Start a project from a starter](https://boyu-zhang-uoi.github.io/building-apps-with-ai/setup/codespaces.html#start-a-project-from-a-starter)
+   with the `vc101-rescue-study-timer` template, and open it in a Codespace.
 2. In the terminal, start a small web server, then open port 8000 from the pop-up or the **Ports** tab:
 
    ```bash
@@ -56,10 +56,10 @@ not by double-clicking `index.html`.
 
 ## Ways to use it
 
-- **Read it** with the week 4 reading questions: trace what happens from pressing **Stop** to the new line in the log.
+- **Read it** with the week 7 reading questions: trace what happens from pressing **Stop** to the new line in the log.
 - **Debug it**: break one line on purpose (or ask a classmate to), then find it with DevTools.
 - **Test it**: add a test to `tests/` before you change anything, for example "a subject name with an emoji is accepted".
 - **Compare it** with your own Project 1: which edge cases does each one handle?
 
-If you build on it, say so in your README and `PROMPTS.md` (it's MIT-licensed, so credit "Building Software with AI rescue starter"),
+If you build on it, say so in your README and `PROMPTS.md` (it's MIT-licensed, so credit "Building Apps with AI rescue starter"),
 and keep your own work clearly separate. Your grade comes from what you write and can explain yourself.
